@@ -102,9 +102,9 @@ python app.py
 ```
 http://127.0.0.1:8050/
 ```
-
+```
 ![Web App Screenshot](images/web_page.png)
-
+```
 
 
 # 📄 Documentation
@@ -112,7 +112,7 @@ http://127.0.0.1:8050/
 The full project documentation is available in:
 
 ```
-![Web App Screenshot](images/web_page.png)
+Documentation
 ```
 
 It includes:
