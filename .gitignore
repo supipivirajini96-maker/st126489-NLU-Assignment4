@@ -1,0 +1,11 @@
+# Ignore model files
+*.pth
+*.pt
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
