@@ -112,7 +112,7 @@ http://127.0.0.1:8050/
 The full project documentation is available in:
 
 ```
-Documentation.pdf
+![Web App Screenshot](images/web_page.png)
 ```
 
 It includes:
@@ -127,6 +127,6 @@ It includes:
 
 ---
 
-![Web App Screenshot](images/web_page.png)
+
 
 ---
