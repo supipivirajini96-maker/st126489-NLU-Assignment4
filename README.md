@@ -103,8 +103,7 @@ python app.py
 http://127.0.0.1:8050/
 ```
 
----
-![web_page](images/web_page.png)
+![Web App Screenshot](images/web_page.png)
 
 ---
 
