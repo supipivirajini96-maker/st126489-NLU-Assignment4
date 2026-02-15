@@ -129,8 +129,3 @@ It includes:
 ---
 
 
-* 🎓 Make it more academic (for submission)
-* 💼 Make it more GitHub portfolio professional
-* 📊 Add a better formatted classification table
-
-Just tell me the style you want.
